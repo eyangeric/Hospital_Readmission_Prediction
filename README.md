@@ -1,4 +1,4 @@
-Building a Model to Predict Hospital Readmission Status
+# Building a Model to Predict Hospital Readmission Status
 
 For this project, I used 2017 hospital data from Rush University Medical Center and Rush Oak Park Hospital. To protect patient privacy, all
 datasets and code output showing data rows have been deleted. The hospital data started off with age, race, ethnicity, gender, 
